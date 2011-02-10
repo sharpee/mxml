@@ -1,0 +1,65 @@
+
+# /
+/*.bck
+/*.bak
+/*.exe
+/*.ilk
+/*.pdb
+/Makefile
+/autom4te*.cache
+/clang
+/config.cache
+/config.h
+/config.log
+/config.status
+/libmxml.a
+/libmxml.1.dylib
+/libmxml.dylib
+/libmxml.sl.1
+/libmxml.so
+/libmxml.so.1
+/libmxml.so.1.4
+/mxml.list
+/mxml.pc
+/mxmldoc
+/mxmldoc-static
+/org.minixml.atom
+/org.minixml.docset
+/org.minixml.xar
+/patches
+/t.xml
+/t.xmlfd
+/temp1.xmlfd
+/testmxml
+/xmlschema-*.pdf
+
+# /doc/
+/doc/*.bck
+/doc/*.bak
+/doc/mxml.d
+/doc/mxml.man
+/doc/mxml.pdf
+/doc/mxml-cover.pdf
+
+# /test/
+/test/framed*.html
+/test/test.html
+/test/test.log
+/test/test.valgrind
+/test/test.xml
+
+# /vcnet/
+/vcnet/Debug
+/vcnet/Release
+/vcnet/*.dll
+/vcnet/*.exe
+/vcnet/*.exp
+/vcnet/*.ilk
+/vcnet/*.lib
+/vcnet/*.ncb
+/vcnet/*.pdb
+/vcnet/*.suo
+/vcnet/*.user
+
+# /www/data/
+/www/data/mxml.db
